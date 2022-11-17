@@ -34,6 +34,9 @@ Multiples libraries
 -   [React Native Image Picker](https://github.com/react-native-image-picker/react-native-image-picker)
 
 
+***Sources:***
+- https://www.youtube.com/watch?v=NreDuIfYpXw
+
 
 ## Install
 Clone project to repository:<br />
